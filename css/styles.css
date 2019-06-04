@@ -6,3 +6,6 @@
 body {
   background-color: lightcyan
 }
+#confirmation {
+  display: none;
+}
